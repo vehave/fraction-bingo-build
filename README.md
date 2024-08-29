@@ -41,4 +41,4 @@ When a player successfully fills a horizontal, vertical, or diagonal line with t
 
 ## Also available for Android devices
 
-<a href="https://play.google.com/store/apps/details?id=math.equation.game" target="_blank"><img src="PlayStore.jpg" alt="Get it on Google Play"></a>
+<a href="https://play.google.com/store/apps/details?id=math.fraction" target="_blank"><img src="PlayStore.jpg" alt="Get it on Google Play"></a>
